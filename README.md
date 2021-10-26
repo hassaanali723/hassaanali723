@@ -2,6 +2,7 @@
 <h3 align="center">ah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanali723&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanali723" /> </p>
+img align="center" src="https://komarev.com/ghpvc/?username=hassaanali723&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet">
 
 
 - 🌱 I’m currently working with **React**
