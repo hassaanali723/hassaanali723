@@ -12,7 +12,7 @@
 
 - 💬 Talk to me about **01001101 01100101 01100001 01101110 01101001 01101110 01100111 00100000 01101111 01100110 00100000 01101100 01101001 01100110 01100101**
 
-- 📫 Reach me at **hassaan.ali@codistan.org**
+- 📫 Reach me at **hassaan.ali@10pearls.com
 
 - 🔭 I'm currently doing internship in Codsitan and Job as a Senior Web Developer in Graphiters.
 
