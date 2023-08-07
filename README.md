@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **hassaan.ali@10pearls.com
 
-- 🔭 I'm currently doing internship in Codsitan and Job as a Senior Web Developer in Graphiters.
+- 🔭 Software Enginner @10pearls
 
 - ⚡ Fun Quote **One day or day one you decide**
 
