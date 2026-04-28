@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanali723&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanali723" /> </p>
 
 
-- 🌱 I’m currently working with **Angular**
+- 🌱 I’m currently working with **Python and JavaScript**
 
 - 🔭 I’m currently a SE student at NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY
 
