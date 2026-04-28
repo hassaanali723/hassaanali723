@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with **Python and JavaScript**
 
-- 🔭 I’m currently a SE student at NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY
+- 🔭 SE gradute from NUST.
 
 - 📚 Founder of Targetpulse.
 
