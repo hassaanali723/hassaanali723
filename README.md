@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently a SE student at NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY
 
-- 📚 Co Founder & Project Manager at Nustac.
+- 📚 Founder of Targetpulse.
 
 - 💬 Talk to me about **01001101 01100101 01100001 01101110 01101001 01101110 01100111 00100000 01101111 01100110 00100000 01101100 01101001 01100110 01100101**
 
-- 📫 Reach me at **hassaan.ali@10pearls.com
+- 📫 Reach me at **hassaanali.dev@gmail.com
 
-- 🔭 Software Enginner @10pearls
+- 🔭Sr Software Consultant @10pearls
 
 - ⚡ Fun Quote **One day or day one you decide**
 
